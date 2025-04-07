@@ -43282,7 +43282,7 @@ return A.jS(B.H,A.a([q,A.u0(s,A.ce(A.avi(new A.Jy(s),B.mS),o,s),s,s,0,s,p,s),A.a
 $S:177}
 A.Cu.prototype={
 M(a){var s=null
-return A.jS(B.H,A.a([A.ard("assets/ubicacion.json",B.AH,150,s),A.u0(s,A.avb(B.UT,new A.afN(this),A.avc(s,s,B.iu,s,s,s,5,s,s,B.k,s,s,s,s,new A.dc(A.re(30),B.v),s,s,s,s)),s,s,s,s,120,s)],t.p),B.x,B.br)}}
+return A.jS(B.H,A.a([A.ard("assets/ubicacion.json",B.AH,150,s),A.u0(s,A.avb(B.US,new A.afN(this),A.avc(s,s,B.iu,s,s,s,5,s,s,B.k,s,s,s,s,new A.dc(A.re(30),B.v),s,s,s,s)),s,s,s,s,120,s)],t.p),B.x,B.br)}}
 A.afN.prototype={
 $0(){var s=0,r=A.P(t.H),q=this,p
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
@@ -43389,7 +43389,7 @@ q=A.a([A.eP(A.fu(A.a([new A.JT(s),A.ce(s,40,s),new A.Jr(s)],q),B.R,B.ar,B.aa),B.
 r=A.at([null,0],t.LO,t.S)
 return new A.AY(new A.KC(new A.ae_(!0,!0,!0,q,r),s,B.cj,!1,s,s,B.A0,!1,s,9,B.ak,B.Ob,s,B.T,B.am,s),s)}}
 A.M6.prototype={
-M(a){return A.fu(A.a([B.UR,B.ca,B.UQ,B.yT,A.ard("assets/regalojson.json",B.eT,80,80),B.ca,new A.Ir("001370948-00003","001370948-00001","BROU",null)],t.p),B.R,B.ba,B.aa)}}
+M(a){return A.fu(A.a([B.UQ,B.ca,B.UP,B.yT,A.ard("assets/regalojson.json",B.eT,80,80),B.ca,new A.Ir("001370948-00003","001370948-00001","BROU",null)],t.p),B.R,B.ba,B.aa)}}
 A.Ir.prototype={
 M(a){var s=null,r=t.p
 return A.fu(A.a([A.dA("Dahiana Castelli",s,B.Sc,s),B.hy,A.dA(this.e,s,B.hG,s),B.hy,A.AW(A.a([A.dA("$",s,B.zd,s),B.yS,A.acE(this.d,B.hG,s)],r),B.R,B.ba,B.aa,0),B.hy,A.AW(A.a([A.dA("USD",s,B.zd,s),B.yS,A.acE(this.c,B.hG,s)],r),B.R,B.ba,B.aa,0)],r),B.R,B.ar,B.aa)}}
@@ -91391,11 +91391,11 @@ B.MN=new A.Ln(1,"landscape")
 B.MO=new A.zT(null)
 B.G5=new A.aM(8,0,8,20)
 B.zg=new A.x(!0,B.aN,null,"DancingScript",null,null,24,B.bK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UP=new A.jW("Complicidad, amor y locuras compartidas\u2026 as\xed se escribe esta historia que hoy queremos celebrar con vos.",null,B.zg,B.bv,null,null)
-B.MP=new A.cr(B.G5,B.UP,null)
+B.UT=new A.jW("Complicidad, amor y locuras compartidas\u2026 as\xed se escribe esta historia que queremos compartir.",null,B.zg,B.bv,null,null)
+B.MP=new A.cr(B.G5,B.UT,null)
 B.UB=new A.x(!0,B.aA,null,null,null,null,60,B.bK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.US=new A.jW("Retratos de Nuestro Amor",null,B.UB,B.bv,null,null)
-B.MQ=new A.cr(B.iU,B.US,null)
+B.UR=new A.jW("Retratos de Nuestro Amor",null,B.UB,B.bv,null,null)
+B.MQ=new A.cr(B.iU,B.UR,null)
 B.MR=new A.zX(null)
 B.c4=new A.Lv(0,"fill")
 B.MS=new A.Lw(0,"fill")
@@ -92021,11 +92021,11 @@ B.TO=new A.x(!0,B.F,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.U2=new A.x(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.RC=new A.x(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.UO=new A.er(B.T0,B.Sd,B.T1,B.Ts,B.RT,B.S_,B.Sv,B.Tk,B.SF,B.TS,B.Rt,B.RJ,B.TO,B.U2,B.RC)
-B.UQ=new A.jW("Si deseas regalarnos algo m\xe1s que tu hermosa presencia...",null,B.zg,B.bv,null,null)
+B.UP=new A.jW("Si deseas regalarnos algo m\xe1s que tu hermosa presencia...",null,B.zg,B.bv,null,null)
 B.TD=new A.x(!0,null,null,null,null,null,60,B.aG,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UR=new A.jW("Regalos",null,B.TD,null,null,null)
+B.UQ=new A.jW("Regalos",null,B.TD,null,null,null)
 B.So=new A.x(!0,B.aN,null,null,null,null,18,B.bK,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UT=new A.jW("Ir a la ubicaci\xf3n",null,B.So,null,null,null)
+B.US=new A.jW("Ir a la ubicaci\xf3n",null,B.So,null,null,null)
 B.Y9=new A.afx(0,"system")
 B.Mq=new A.h(0.056,0.024)
 B.MD=new A.h(0.108,0.3085)
